@@ -1,0 +1,14 @@
+layout_spectrum: 0.9437464596703649
+typography_spectrum: 0.719697893364355
+color:
+  brandStrength: 0.3793276173528284
+  lightness: 0.3058174524921924
+  saturation: 0.9785717583727092
+  rhythmicContrast: 0.5462034088559449
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: PocketCampus
